@@ -1,0 +1,11 @@
+C:\Users\mhmtm\Desktop\ChamponsLeague\ChamponsLeague\bin\Debug\ChamponsLeague.exe.config
+C:\Users\mhmtm\Desktop\ChamponsLeague\ChamponsLeague\bin\Debug\ChamponsLeague.exe
+C:\Users\mhmtm\Desktop\ChamponsLeague\ChamponsLeague\bin\Debug\ChamponsLeague.pdb
+C:\Users\mhmtm\Desktop\ChamponsLeague\ChamponsLeague\obj\Debug\ChamponsLeague.csproj.AssemblyReference.cache
+C:\Users\mhmtm\Desktop\ChamponsLeague\ChamponsLeague\obj\Debug\ChamponsLeague.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmtm\Desktop\ChamponsLeague\ChamponsLeague\obj\Debug\ChamponsLeague.Form1.resources
+C:\Users\mhmtm\Desktop\ChamponsLeague\ChamponsLeague\obj\Debug\ChamponsLeague.Properties.Resources.resources
+C:\Users\mhmtm\Desktop\ChamponsLeague\ChamponsLeague\obj\Debug\ChamponsLeague.csproj.GenerateResource.cache
+C:\Users\mhmtm\Desktop\ChamponsLeague\ChamponsLeague\obj\Debug\ChamponsLeague.csproj.CoreCompileInputs.cache
+C:\Users\mhmtm\Desktop\ChamponsLeague\ChamponsLeague\obj\Debug\ChamponsLeague.exe
+C:\Users\mhmtm\Desktop\ChamponsLeague\ChamponsLeague\obj\Debug\ChamponsLeague.pdb
